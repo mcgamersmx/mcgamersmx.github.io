@@ -1748,6 +1748,12 @@
 			margin: 0 0 4em 0;
 
 		}
+		.image.rezise {
+			width: 100%;
+			margin: 0 0 4em 0;
+			display:block;
+		}
+	
 
 		.image.left {
 			float: left;
