@@ -1729,7 +1729,10 @@ header a img.network {
 			line-height: 1.5em;
 			text-align: inherit;
 		}
-
+	section.carousel{
+		padding: 10px;
+	}
+		
 	footer {
 		margin: 2.5em 0 0 0;
 	}
@@ -2101,8 +2104,9 @@ header a img.network {
 	}
 
 		.wrapper.style2 {
-			padding-top: 0;
+			padding-top: 0 auto;
 			margin-top: -55px;
+
 		}
 
 /* Header */
@@ -2393,6 +2397,7 @@ header a img.network {
 		padding: 6em 0 6em 0;
 		background: #2b252c;
 		color: #fff;
+		margin-top:0; 
 	}
 
 		#footer .icon.circled {
@@ -2439,7 +2444,7 @@ header a img.network {
 		position: relative;
 		overflow: hidden;
 		padding: 2em 0 2em 0;
-		margin-bottom: 120px;
+		margin-bottom: 140px;
 	}
 
 		.carousel .forward, .carousel .backward {
