@@ -1543,6 +1543,10 @@
 
 	}
 
+/* Logo */
+	header a  img {
+		margin-bottom: 10px;
+	}
 /* Basic */
 
 	body {
