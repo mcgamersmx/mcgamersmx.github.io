@@ -1731,10 +1731,14 @@
 		border: 0;
 		outline: 0;
 	}
-
+		article a .img.quiensomos{
+			position: relative;
+			margin-top: 40px ;
+		}
 		.image img {
 			display: block;
 			width: 100%;
+			height: 180px;
 		}
 
 		.image.fit {
@@ -1747,11 +1751,6 @@
 			width: 100%;
 			margin: 0 0 4em 0;
 
-		}
-		.image.rezise {
-			width: 100%;
-			margin: 0 0 4em 0;
-			display:block;
 		}
 	
 
@@ -2428,7 +2427,7 @@
 		position: relative;
 		overflow: hidden;
 		padding: 2em 0 2em 0;
-		margin-bottom: 0;
+		margin-bottom: 65px;
 	}
 
 		.carousel .forward, .carousel .backward {
